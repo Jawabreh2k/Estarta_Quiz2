@@ -1,0 +1,404 @@
+{
+  "topics": [
+    {
+      "name": "Math",
+      "timeLimit": 300,
+      "questions": [
+        {
+          "question": "What is 2 + 5?",
+          "options": ["5", "6", "7", "8"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is 12 - 8?",
+          "options": ["2", "4", "6", "8"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is 4 * 6?",
+          "options": ["16", "20", "24", "28"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is 27 / 3?",
+          "options": ["6", "7", "8", "9"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is the square root of 81?",
+          "options": ["7", "8", "9", "10"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the value of pi (to 2 decimal places)?",
+          "options": ["3.14", "3.16", "3.18", "3.20"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the equation of a line with slope 2 and y-intercept 4?",
+          "options": ["y = 2x + 4", "y = 4x + 2", "y = -2x + 4", "y = 4x - 2"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the area of a triangle with base 6 and height 8?",
+          "options": ["12", "24", "30", "48"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the sum of the angles in a triangle?",
+          "options": [
+            "90 degrees",
+            "180 degrees",
+            "270 degrees",
+            "360 degrees"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is the equation of a circle with center (2, -3) and radius 5?",
+          "options": [
+            "(x - 2)^2 + (y + 3)^2 = 25",
+            "(x + 2)^2 + (y - 3)^2 = 25",
+            "(x - 2)^2 + (y + 3)^2 = 5",
+            "(x + 2)^2 + (y - 3)^2 = 5"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "name": "Science",
+      "timeLimit": 300,
+      "questions": [
+        {
+          "question": "What is the chemical symbol for water?",
+          "options": ["HO", "H2O", "OH2", "O2H"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which element has the atomic number 1?",
+          "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What type of energy is stored in a battery?",
+          "options": [
+            "Potential energy",
+            "Kinetic energy",
+            "Heat energy",
+            "Chemical energy"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What causes the tides on Earth?",
+          "options": [
+            "The gravitational pull of the moon",
+            "The rotation of the Earth",
+            "The heat of the sun",
+            "The movement of the oceans"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which gas makes up the majority of the Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the process by which plants convert sunlight into energy?",
+          "options": [
+            "Photosynthesis",
+            "Respiration",
+            "Transpiration",
+            "Hydration"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the unit of measurement for electric current?",
+          "options": ["Volt", "Watt", "Ampere", "Ohm"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the name of the force that holds atoms together?",
+          "options": [
+            "Gravity",
+            "Electromagnetism",
+            "Strong nuclear force",
+            "Weak nuclear force"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the name of the largest ocean on Earth?",
+          "options": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+          ],
+          "correctAnswer": 3
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "timeLimit": 300,
+      "questions": [
+        {
+          "question": "What is the capital of Japan?",
+          "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which country is both in Europe and Asia?",
+          "options": ["Spain", "Russia", "Egypt", "India"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the largest country by area?",
+          "options": ["United States", "China", "Russia", "Canada"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the name of the highest mountain in Africa?",
+          "options": [
+            "Mount Kilimanjaro",
+            "Mount Everest",
+            "Mount Aconcagua",
+            "Mount Elbrus"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the name of the largest desert in the world?",
+          "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which country is known as the 'Land of the Rising Sun'?",
+          "options": ["China", "South Korea", "Japan", "Taiwan"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the name of the river that flows through Egypt?",
+          "options": ["Niger", "Congo", "Nile", "Zambezi"],
+          "correctAnswer": 2
+        },
+        {
+          "question": "What is the smallest country in the world by land area?",
+          "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the name of the sea that is bordered by Europe to the north and Africa to the south?",
+          "options": [
+            "Mediterranean Sea",
+            "Baltic Sea",
+            "Red Sea",
+            "Black Sea"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the capital of Canada?",
+          "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "timeLimit": 300,
+      "questions": [
+        {
+          "question": "Which country was the first to send a man to space?",
+          "options": ["United States", "Russia", "China", "France"],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Who wrote the Communist Manifesto?",
+          "options": [
+            "Karl Marx and Friedrich Engels",
+            "Vladimir Lenin and Leon Trotsky",
+            "Joseph Stalin and Mao Zedong",
+            "Che Guevara and Fidel Castro"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which war was fought between the North and South of the United States?",
+          "options": [
+            "World War I",
+            "World War II",
+            "Vietnam War",
+            "Civil War"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which country was the first to colonize Australia?",
+          "options": ["Spain", "France", "Netherlands", "Great Britain"],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Which famous document begins with the words 'When in the course of human events'?",
+          "options": [
+            "The U.S. Constitution",
+            "The Bill of Rights",
+            "The Magna Carta",
+            "The Declaration of Independence"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "Who was the leader of the Soviet Union during World War II?",
+          "options": [
+            "Vladimir Putin",
+            "Nikita Khrushchev",
+            "Joseph Stalin",
+            "Mikhail Gorbachev"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Which ancient civilization built the city of Machu Picchu?",
+          "options": ["Inca", "Maya", "Aztec", "Egyptian"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What was the name of the ship that Charles Darwin sailed on to the Galapagos Islands?",
+          "options": ["Beagle", "Endeavour", "Discovery", "Mayflower"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which European country was the first to colonize the Americas?",
+          "options": ["Spain", "Portugal", "France", "England"],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Who was the first African American to serve as president of the United States?",
+          "options": [
+            "Barack Obama",
+            "Jesse Jackson",
+            "Al Sharpton",
+            "Colin Powell"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    },
+    {
+      "name": "Literature",
+      "timeLimit": 300,
+      "questions": [
+        {
+          "question": "Who is the author of '1984'?",
+          "options": [
+            "Aldous Huxley",
+            "George Orwell",
+            "Ray Bradbury",
+            "J.D. Salinger"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Who wrote the novel 'Pride and Prejudice'?",
+          "options": [
+            "Charlotte Bronte",
+            "Jane Austen",
+            "Emily Bronte",
+            "Virginia Woolf"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the title of the first book in the 'Lord of the Rings' trilogy?",
+          "options": [
+            "The Hobbit",
+            "The Two Towers",
+            "The Fellowship of the Ring",
+            "The Return of the King"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Who is the author of 'The Catcher in the Rye'?",
+          "options": [
+            "J.D. Salinger",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "William Faulkner"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "What is the name of the main character in 'The Great Gatsby'?",
+          "options": [
+            "Jay Gatsby",
+            "Nick Carraway",
+            "Daisy Buchanan",
+            "Tom Buchanan"
+          ],
+          "correctAnswer": 0
+        },
+        {
+          "question": "Which of the following plays was written by William Shakespeare?",
+          "options": [
+            "The Importance of Being Earnest",
+            "King Lear",
+            "The Rivals",
+            "An Ideal Husband"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "What is the name of the monster in Mary Shelley's 'Frankenstein'?",
+          "options": [
+            "Dracula",
+            "The Mummy",
+            "The Wolfman",
+            "Frankenstein's monster"
+          ],
+          "correctAnswer": 3
+        },
+        {
+          "question": "What is the title of Harper Lee's second novel, which was published in 2015?",
+          "options": [
+            "To Kill a Mockingbird",
+            "Go Set a Watchman",
+            "The Catcher in the Rye",
+            "The Great Gatsby"
+          ],
+          "correctAnswer": 1
+        },
+        {
+          "question": "Which of the following authors is known for writing science fiction?",
+          "options": [
+            "J.K. Rowling",
+            "Stephen King",
+            "Isaac Asimov",
+            "John Grisham"
+          ],
+          "correctAnswer": 2
+        },
+        {
+          "question": "Who is the author of the poem 'The Waste Land'?",
+          "options": [
+            "T.S. Eliot",
+            "W.B. Yeats",
+            "Robert Frost",
+            "William Wordsworth"
+          ],
+          "correctAnswer": 0
+        }
+      ]
+    }
+  ]
+}
